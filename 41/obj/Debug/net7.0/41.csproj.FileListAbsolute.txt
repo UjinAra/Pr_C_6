@@ -1,0 +1,15 @@
+/Users/GB/Знакомство с яз прогр Сшарп/C_pract/Pr6/41/obj/Debug/net7.0/41.csproj.AssemblyReference.cache
+/Users/GB/Знакомство с яз прогр Сшарп/C_pract/Pr6/41/obj/Debug/net7.0/41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GB/Знакомство с яз прогр Сшарп/C_pract/Pr6/41/obj/Debug/net7.0/41.AssemblyInfoInputs.cache
+/Users/GB/Знакомство с яз прогр Сшарп/C_pract/Pr6/41/obj/Debug/net7.0/41.AssemblyInfo.cs
+/Users/GB/Знакомство с яз прогр Сшарп/C_pract/Pr6/41/obj/Debug/net7.0/41.csproj.CoreCompileInputs.cache
+/Users/GB/Знакомство с яз прогр Сшарп/C_pract/Pr6/41/bin/Debug/net7.0/41
+/Users/GB/Знакомство с яз прогр Сшарп/C_pract/Pr6/41/bin/Debug/net7.0/41.deps.json
+/Users/GB/Знакомство с яз прогр Сшарп/C_pract/Pr6/41/bin/Debug/net7.0/41.runtimeconfig.json
+/Users/GB/Знакомство с яз прогр Сшарп/C_pract/Pr6/41/bin/Debug/net7.0/41.dll
+/Users/GB/Знакомство с яз прогр Сшарп/C_pract/Pr6/41/bin/Debug/net7.0/41.pdb
+/Users/GB/Знакомство с яз прогр Сшарп/C_pract/Pr6/41/obj/Debug/net7.0/41.dll
+/Users/GB/Знакомство с яз прогр Сшарп/C_pract/Pr6/41/obj/Debug/net7.0/refint/41.dll
+/Users/GB/Знакомство с яз прогр Сшарп/C_pract/Pr6/41/obj/Debug/net7.0/41.pdb
+/Users/GB/Знакомство с яз прогр Сшарп/C_pract/Pr6/41/obj/Debug/net7.0/41.genruntimeconfig.cache
+/Users/GB/Знакомство с яз прогр Сшарп/C_pract/Pr6/41/obj/Debug/net7.0/ref/41.dll
